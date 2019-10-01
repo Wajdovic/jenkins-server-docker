@@ -11,7 +11,7 @@ A jenkins server with a docker client preinstalled
 
 Jenkins will be running on port 8080.
 
-At first connexion you will be asked to enter a token to unblock jenkins, you will find find it in the logs of jenkins container :
+At first connexion you will be asked to enter a token to unblock jenkins, you will find it in the logs of jenkins container :
 
     docker ps ( get the container id)
     
